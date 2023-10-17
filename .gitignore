@@ -12,3 +12,6 @@ pom.xml.asc
 .hgignore
 .hg/
 *~undo-tree~
+*project.clj#
+.#project.clj
+*clj~

@@ -1,4 +1,4 @@
-# rama-clj-template
+# mush backend
 
 Sets up repl with hot reloading.
 

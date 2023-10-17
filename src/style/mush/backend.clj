@@ -1,4 +1,4 @@
-(ns rama-clojure-starter.my-module
+(ns style.mush.backend
   (:use [com.rpl.rama]
         [com.rpl.rama.path])
   (:require [com.rpl.rama.aggs :as aggs]
