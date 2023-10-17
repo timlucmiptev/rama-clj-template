@@ -15,5 +15,5 @@
                                        
                                        ]
                         }}
-  :plugins [[cider/cider-nrepl "0.39.1"]]
+  :plugins [[cider/cider-nrepl "0.40.0"]]
   )
